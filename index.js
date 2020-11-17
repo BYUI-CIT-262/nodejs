@@ -1,2 +1,2 @@
-console.println("It worked!")
+console.log("It worked!")
   
