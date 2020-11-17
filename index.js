@@ -1,9 +1,2 @@
-{
-  "scripts":{
-   "start":"node index.js"   
-  },
-  "dependencies":{
-    
-  }
-}  
+console.println("It worked!")
   
